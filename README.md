@@ -1,10 +1,6 @@
-# LAD
+# LAD - Keep Layla (Lad) Happy
 
-Keep Lad (Layla) comfortable.
-Manage the Bark Meter.
-Pet her.
-Build the Cozy Cave.
-Survive Bone Battles.
-Unlock Bria and the real photos.
+A cozy pixel-art idle game about pampering your dog and managing her Bark Meter.
 
-Made for Jah & the real Lad.
+## Current Status
+Building high quality release version.
