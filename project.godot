@@ -1,0 +1,11 @@
+[application]
+config/name="LAD - Keep Her Happy"
+config/description="Cozy idle game about pampering Lad (Layla) and managing her Bark Meter"
+run/main_scene="res://main.tscn"
+
+[display]
+window/size/viewport_width=640
+window/size/viewport_height=360
+
+[rendering]
+textures/default_texture_filter=0
