@@ -1,0 +1,15 @@
+# Godot 4
+.godot/
+export.cfg
+export_presets.cfg
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+
+# OS
+.DS_Store
+Thumbs.db
