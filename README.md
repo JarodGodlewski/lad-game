@@ -1,2 +1,10 @@
-# lad-game
-LAD - The wholesome chaos idle game about pampering Layla (Lad) and managing her bark meter. Built with love + Grok.
+# LAD
+
+Keep Lad (Layla) comfortable.
+Manage the Bark Meter.
+Pet her.
+Build the Cozy Cave.
+Survive Bone Battles.
+Unlock Bria and the real photos.
+
+Made for Jah & the real Lad.

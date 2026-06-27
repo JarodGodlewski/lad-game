@@ -1,6 +1,6 @@
 [application]
-config/name="LAD - Keep Her Happy"
-config/description="Cozy idle game about pampering Lad (Layla) and managing her Bark Meter"
+config/name="LAD"
+config/description="Keep Lad comfortable. Manage the Bark Meter. Prestige to unlock more chaos."
 run/main_scene="res://main.tscn"
 
 [display]
